@@ -1,0 +1,16 @@
+{
+  "name": "MessengerHub",
+  "description": "Connect and interact with your Telegram, Discord, and Slack messages directly from OpenChat. Receive updates, search conversations, and ask questions about your messages from all platforms in one place.",
+  "websiteUrl": "https://github.com/open-chat-labs/open-chat-bots",
+  "logoUrl": "https://example.com/messenger-hub-logo.png",
+  "category": "Messaging",
+  "authorName": "Your Name",
+  "authorWebsiteUrl": "https://example.com",
+  "features": [
+    "Integrate Telegram, Discord, and Slack in a single interface",
+    "Receive real-time notifications from all your messaging platforms",
+    "Search and ask questions about your conversations in natural language",
+    "Track messages across multiple channels and platforms",
+    "Flexible connection management for each messaging service"
+  ]
+}
